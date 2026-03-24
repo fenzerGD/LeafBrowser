@@ -12,7 +12,18 @@ A minimalist web browser built with Python and PyQt6, optimized for Wayland and 
 To run this application, you need Python 3 and the following dependencies:
 - `python-pyqt6`
 - `qt6-webengine`
+🚀 Installation
 
-On Arch Linux, you can install them using:
-```bash
-sudo pacman -S python-pyqt6 qt6-webengine
+You have two ways to get LeafBrowser:
+Option 1: Using Git (Recommended)
+
+Make sure you have git installed on your Linux distribution, then run:
+Bash
+
+git clone https://github.com/fenzerGD/LeafBrowser
+cd LeafBrowser
+python LF.py
+
+Option 2: Direct Download
+
+Go to the "Releases" section on the right side of this page and download the latest version as a ZIP archive. Extract it and run LF.py.
