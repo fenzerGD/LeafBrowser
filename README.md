@@ -13,7 +13,7 @@ To run this application, you need Python 3 and the following dependencies:
 - `python-pyqt6`
 - `qt6-webengine`
 - 🚀 Installation
-- 
+  
 You have two ways to get LeafBrowser:
 Option 1: Using Git (Recommended)
 
