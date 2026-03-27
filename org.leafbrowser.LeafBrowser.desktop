@@ -1,0 +1,10 @@
+Desktop Entry]
+Version=1.0
+Type=Application
+Name=LeafBrowser
+Comment=Приватний та швидкий браузер на базі Qt
+Exec=python3 /app/bin/LF.py
+Icon=org.leafbrowser.LeafBrowser
+Terminal=false
+Categories=Network;WebBrowser;
+Keywords=Browser;Web;Leaf;
