@@ -30,21 +30,6 @@
             color: var(--text);
             outline: none;
         }
-        #socials {
-            display: flex;
-            gap: 20px;
-        }
-        #socials a {
-            color: var(--text);
-            text-decoration: none;
-            background: var(--input);
-            padding: 8px 20px;
-            border-radius: 20px;
-            font-size: 14px;
-        }
-        #socials a:hover {
-            opacity: 0.8;
-        }
         #mango {
             position: fixed;
             bottom: 15px;
@@ -74,9 +59,6 @@
     <div id="clock">00:00:00</div>
     <input id="search" type="text" placeholder="Search or enter a link">
     <p id="socials-title">My socials</p>
-    <div id="socials">
-        <a href="https://www.youtube.com/@1NSANE-1NS">▶ YouTube</a>
-        <a href="https://www.tiktok.com/@fenz089">♪ TikTok</a>
     </div>
     <button id="mango">🥭</button>
     <div id="overlay" onclick="this.classList.remove('show'); document.getElementById('vid').pause()">
