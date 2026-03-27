@@ -1,4 +1,4 @@
-##🌿 LeafBrowser | Alpha 0.5 (Phase 2) 🚀
+## 🌿 LeafBrowser | Alpha 0.5 (Phase 2) 🚀
 
 Version: v0.5.0
 
