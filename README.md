@@ -1,29 +1,34 @@
-# LeafBrowser
+🌿 LeafBrowser | Alpha 0.5 (Phase 2) 🚀
 
-A minimalist web browser built with Python and PyQt6, optimized for Wayland and tiling window managers like Hyprland.
+Version: v0.5.0
 
-## Features
-- Built on PyQt6 and Qt6WebEngine.
-- Lightweight and resource-efficient.
-- Native Wayland support.
-- Customizable interface via `themes.py`.
+Status: Public Alpha Testing — "The Foundation Update"
 
-## Requirements
-To run this application, you need Python 3 and the following dependencies:
-- `python-pyqt6`
-- `qt6-webengine`
-## Installation
-  
-You have two ways to get LeafBrowser:
-Option 1: Using Git (Recommended)
+Welcome to LeafBrowser Alpha 0.5! This version represents a major milestone in our development. We've reached the halfway point to Beta, shifting our focus toward a Security-First architecture while maintaining a feather-light footprint.
+🛡️ What's New in 0.5:
 
-Make sure you have git installed on your Linux distribution, then run:
-Bash
+    Enhanced Web Engine: Upgraded to PyQt6 WebEngine for improved performance and modern web standards.
 
-git clone https://github.com/fenzerGD/LeafBrowser
-cd LeafBrowser
-python LF.py
+    Smart Tab System: Stable multi-tab management with optimized memory usage.
 
-Option 2: Direct Download
+    Phase 2 UI: A cleaner, more responsive interface with a focus on minimalism.
 
-Go to the "Releases" section on the right side of this page and download the latest version as a ZIP archive. Extract it and run LF.py.
+    Theming Support: Full implementation of Light/Dark modes, switchable via local configuration.
+
+    Bilingual Support: Full localization for both English and Ukrainian.
+
+⌨️ Essential Hotkeys:
+
+    Ctrl + T — Open New Tab
+
+    Ctrl + W — Close Current Tab
+
+    Ctrl + R — Reload Page
+
+    Ctrl + L — Jump to Address Bar
+
+⚠️ Developer's Note:
+
+Version 0.5 is our most stable Alpha yet. However, it is still a testing build. We are currently working on the v0.1.1 micro-patch to polish the UI elements.
+
+Security is our #1 Priority. The next sprint toward v0.6 and beyond will introduce our custom Ad-Block Lite and HTTPS Enforcement.
